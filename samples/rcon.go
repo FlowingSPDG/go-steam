@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/FlowingSPDG/go-steam"
 	log "github.com/sirupsen/logrus"
-	"github.com/kidoman/go-steam"
 )
 
 func main() {
